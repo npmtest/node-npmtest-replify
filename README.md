@@ -1,4 +1,7 @@
-# test coverage for  [replify (v1.2.0)](https://github.com/dshaw/replify)  [![npm package](https://img.shields.io/npm/v/npmtest-replify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-replify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-replify.svg)](https://travis-ci.org/npmtest/node-npmtest-replify)
+# npmtest-replify
+
+#### basic test coverage for  [replify (v1.2.0)](https://github.com/dshaw/replify)  [![npm package](https://img.shields.io/npm/v/npmtest-replify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-replify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-replify.svg)](https://travis-ci.org/npmtest/node-npmtest-replify)
+
 #### Easily add a REPL to your Node.js app.
 
 [![NPM](https://nodei.co/npm/replify.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/replify)
